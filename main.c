@@ -2,6 +2,10 @@
 
 int main()
 {
-	printf("hello github!\n");
+	int aa;
+	for(aa = 0; aa <10; aa ++)
+	{
+		printf("%d\n", aa);
+	}
 	return 0;
 }
